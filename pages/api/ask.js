@@ -1,0 +1,1 @@
+// Placeholder for API route that connects to OpenAI
